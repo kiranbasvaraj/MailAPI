@@ -1,2 +1,5 @@
 Mail API
 For hackathons where we need Mail APIs
+
+Use the syntax
+http://mailapi.apphb.com/API/Mail?to=sendto@xyz.com&from=youraccount@xyz.com&cc=somebodycc@cc.com&subject=$1&body=paying&frompassword=yourpassword
